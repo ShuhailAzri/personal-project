@@ -2,7 +2,7 @@
 import React, { useState, useRef, useCallback, useEffect } from 'react';
 import { AppStatus, ColorOption, GeneratedVersion } from './types';
 import { PRESET_COLORS, APP_TITLE } from './constants';
-import { processRepaint } from './services/geminiService';
+import { processRepaint } from './geminiService';
 import { 
   CameraIcon, 
   ArrowPathIcon, 
