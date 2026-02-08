@@ -1,0 +1,8 @@
+
+{
+  "name": "Wall Paint AI Visualizer",
+  "description": "A sophisticated interior design tool that uses Gemini AI to realistically repaint your walls in any color scheme, helping you visualize your home renovation before you pick up a brush.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
